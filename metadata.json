@@ -1,0 +1,7 @@
+{
+  "name": "HealthWealth - India",
+  "description": "An interactive educational game teaching Indian kids the intersection of healthcare literacy and financial management through vibrant landscapes and character-driven storytelling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
